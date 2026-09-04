@@ -1,0 +1,35 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+.next/
+
+# Databases / analysis cache
+*.db
+*.sqlite
+*.sqlite3
+cache/
+analysis_cache/
+
+# Engine binaries
+stockfish/
+stockfish.exe
+
+# Logs
+*.log
